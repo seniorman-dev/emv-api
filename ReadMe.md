@@ -64,7 +64,7 @@ git add .
 git commit -m "Initial commit - EMV Flask API"
 
 # Create a new repo on GitHub first, then:
-git remote add origin https://github.com/YOUR_USERNAME/emv-api.git
+git remote add origin https://github.com/seniorman-dev/emv-api.git
 git branch -M main
 git push -u origin main
 
